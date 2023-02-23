@@ -1,0 +1,29 @@
+{
+  "term": "Spring",
+  "year": "2027",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "course-2"
+  },
+  "course_image": {
+    "content": "",
+    "website": "course-2"
+  },
+  "course_title": "Course 2",
+  "course_description": "afsdfsdfsdf",
+  "department_numbers": [
+    "1"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "22",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "course-2"
+  },
+  "learning_resource_types": [],
+  "site_uid": "b0605e4d-dd8c-45ec-a860-9cc6e82fddda",
+  "site_short_id": "course-2"
+}
